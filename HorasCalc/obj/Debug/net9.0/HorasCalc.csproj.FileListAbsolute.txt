@@ -1,0 +1,14 @@
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\bin\Debug\net9.0\HorasCalc.exe
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\bin\Debug\net9.0\HorasCalc.deps.json
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\bin\Debug\net9.0\HorasCalc.runtimeconfig.json
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\bin\Debug\net9.0\HorasCalc.dll
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\bin\Debug\net9.0\HorasCalc.pdb
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.AssemblyInfoInputs.cache
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.AssemblyInfo.cs
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.csproj.CoreCompileInputs.cache
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.dll
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\refint\HorasCalc.dll
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.pdb
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\HorasCalc.genruntimeconfig.cache
+C:\Users\henrique.gonzaga\source\repos\HorasCalc\HorasCalc\obj\Debug\net9.0\ref\HorasCalc.dll
