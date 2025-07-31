@@ -1,4 +1,5 @@
-﻿using HorasCalc.Model;
+﻿using ConsoleTimer;
+using HorasCalc.Model;
 
 namespace HorasCalc.Services
 {
@@ -7,7 +8,9 @@ namespace HorasCalc.Services
         public static void ShowAppName()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("CALCULADORA DE HORAS!\n");
+            Console.Write("CALCULADORA DE HORAS");
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.Write($"\tv{Config.versao}\n\n");
             Console.ForegroundColor = ConsoleColor.White;
         }
 
