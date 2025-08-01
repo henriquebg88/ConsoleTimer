@@ -3,6 +3,6 @@ namespace ConsoleTimer
 {
     public static class Config
     {
-        public static string versao { get; } = "1.0.0";
+        public static string versao { get; } = "1.0.1";
     }
 }

@@ -64,9 +64,9 @@ namespace HorasCalc.Services
         private static Periodo AddByScale()
         {
             ConsoleHelper.Clear();
-            Console.WriteLine("Digite o período na escada de 1 e pressione ENTER\n");
-            Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine("Ex: 1,5 (equivale a 1h30) ou 1,60 (equivale a 1h36\n");
+            Console.WriteLine("Digite o período na escada de 1 e pressione ENTER");
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("Ex: 1,5 (equivale a 1h30) ou 1,60 (equivale a 1h36)\n");
             Console.ForegroundColor = ConsoleColor.White;
 
             double input = ConsoleHelper.ReadDouble();
