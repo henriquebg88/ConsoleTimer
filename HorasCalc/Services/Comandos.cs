@@ -51,10 +51,10 @@ namespace HorasCalc.Services
             Console.WriteLine($"Iniciou às {horaI} horas e {minutoI} minutos\n");
 
             Console.WriteLine("Digite a HORA de término e pressione enter. Em seguida, digite o MINUTO e pressione enter.");
-            var horaF = ConsoleHelper.ReadNumer(NumberType.Hour);
             Console.Write("hora:");
-            var minutoF = ConsoleHelper.ReadNumer(NumberType.Minutes);
+            var horaF = ConsoleHelper.ReadNumer(NumberType.Hour);
             Console.Write("minuto:");
+            var minutoF = ConsoleHelper.ReadNumer(NumberType.Minutes);
 
             ConsoleHelper.Clear();
 
